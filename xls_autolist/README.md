@@ -1,0 +1,1 @@
+根据原有基础清单base.xls，生成一个head_products.json文件，AutoList.py从该json文件中读取信息，输入想要的型号生成相关的清单
